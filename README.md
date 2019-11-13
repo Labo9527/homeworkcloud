@@ -25,7 +25,7 @@
 
 #### 项目目录：
 
-![image-20191112110921244](/Users/yang/Desktop/大三/服务计算/MyCloudGo/img/image-20191112110921244.png)
+![image-20191112110921244](./img/image-20191112110921244.png)
 
 目录结构很简单，只有一个main.go和一个service包
 
@@ -100,21 +100,21 @@ func NewServer(port string) {
 
 
 
-![image-20191112113710033](/Users/yang/Desktop/大三/服务计算/MyCloudGo/img/image-20191112113710033.png)
+![image-20191112113710033](./img/image-20191112113710033.png)
 
-![image-20191112113739685](/Users/yang/Desktop/大三/服务计算/MyCloudGo/img/image-20191112113739685.png)
+![image-20191112113739685](./img/image-20191112113739685.png)
 
 
 
 #### curl测试
 
-![image-20191112113814664](/Users/yang/Desktop/大三/服务计算/MyCloudGo/img/image-20191112113814664.png)
+![image-20191112113814664](./img/image-20191112113814664.png)
 
 
 
 #### ab压力测试
 
-![image-20191112113859371](/Users/yang/Desktop/大三/服务计算/MyCloudGo/img/image-20191112113859371.png)
+![image-20191112113859371](./img/image-20191112113859371.png)
 
 ## 实验总结
 
